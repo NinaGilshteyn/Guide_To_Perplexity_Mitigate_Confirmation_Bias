@@ -2,6 +2,8 @@
 
 A document for writing effective Perplexity.ai prompts for scientific literature research, illustrated with a real multi-turn conversation about cyclin drivers in mouse HCC models.
 
+A guide has now been posted: https://ninagilshteyn.github.io/Guide_To_Perplexity_Mitigate_Confirmation_Bias/
+
 ---
 
 ## Files
